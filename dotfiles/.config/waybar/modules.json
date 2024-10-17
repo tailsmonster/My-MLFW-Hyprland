@@ -19,10 +19,10 @@
 			"urgent": "",
 			"active": "",
 			"default": ""
-        },
-        "persistent-workspaces": {
-             "*": 5
-        }       
+        }// ,
+        // "persistent-workspaces": {
+        //      "*": 5
+        // }       
     },
 
     // Hyprland Window
@@ -73,9 +73,9 @@
 
     // Clock
     "clock": {
-        // "timezone": "America/New_York",
+        "timezone": "America/New_York",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format-alt": "{:%Y-%m-%d}"
+        "format-alt": "{:%m-%d-%Y}"
     },
 
     // System
