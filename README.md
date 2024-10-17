@@ -1,4 +1,4 @@
-# Tailsmonster's ML4W Hyprland Starter 1.0.0
+# Tailsmonster's ML4W Hyprland Starter 1.0.2
 
 This has my tweaks to ML4W's Hyprland starter kit for my ideal workflow.
 
@@ -11,17 +11,12 @@ To make your start with Hyprland as simple as possible, you can find here an eas
 
 Ths script supports the following distributions:
 * Arch Linux (+ Arch Linux based distros e.g., EndeavourOS, Manjaro, ...)
-* Fedora Linux
-* Nobara Linux
-* more to come soon...
 
 ## Documentation (Wiki)
 
 You can find the complete documentation of the ML4W Dotfiles in the Wiki. <b>[Open the Wiki here](https://github.com/mylinuxforwork/hyprland-starter/wiki)</b>
 
 ## Installation
-
-You can install the Hyprland Starter on real hardware (bare metal) or test it first in a Virtual Machine based on QEMU/KVM with activated 3D acceleration.
 
 Just copy the following command into your terminal and execute.
 
@@ -47,7 +42,7 @@ The script will install the following packages and the corresponding configurati
 - qt6-wayland 
 - Lock screen: hyprlock
 
-You can find all shipped configurations here: https://github.com/mylinuxforwork/hyprland-starter/tree/main/dotfiles
+You can find all shipped configurations here: https://github.com/tailsmonster/My-MLFW-Hyprland/tree/main/dotfiles
 
 ## Key Bindings
 
