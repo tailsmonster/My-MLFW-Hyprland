@@ -1,6 +1,6 @@
-# ML4W Hyprland Starter 1.0.1
+# Tailsmonster's ML4W Hyprland Starter 1.0.0
 
-The ML4W Hyprland Starter package is the perfect starting point for your Hyprland customization experiments.
+This has my tweaks to ML4W's Hyprland starter kit for my ideal workflow.
 
 To make your start with Hyprland as simple as possible, you can find here an easy to use installation and configuration script.
 
