@@ -4,9 +4,8 @@ This has my tweaks to ML4W's Hyprland starter kit for my ideal workflow.
 
 To make your start with Hyprland as simple as possible, you can find here an easy to use installation and configuration script.
 
-![image](https://github.com/mylinuxforwork/hyprland-starter/assets/145253254/0e6b3bcd-7b60-4d11-a7c4-7fc3ad708adf)
+![image](https://raw.githubusercontent.com/tailsmonster/My-MLFW-Hyprland/refs/heads/main/20241017_08h00m09s_grim.png)
 
-Watch on YouTube: https://youtu.be/jc-vFSXpZF4
 
 ## Requirements
 
@@ -27,7 +26,7 @@ You can install the Hyprland Starter on real hardware (bare metal) or test it fi
 Just copy the following command into your terminal and execute.
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/mylinuxforwork/hyprland-starter/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/tailsmonster/My-MLFW-Hyprland/main/setup.sh)
 ```
 
 > Hyprland does not officially support NVIDIA hardware. But many users have reported a successful installation. Please read: https://wiki.hyprland.org/Nvidia/
