@@ -193,17 +193,17 @@ fi
 cd ~/Downloads
 
 # Remove existing folder
-if [ -d ~/Downloads/hyprland-starter ] ;then
-    rm -rf ~/Downloads/hyprland-starter
+if [ -d ~/Downloads/My-MLFW-Hyprland ] ;then
+    rm -rf ~/Downloads/My-MLFW-Hyprland
     echo ":: Existing installation folder removed"
 fi
 
 # Clone the packages
-git clone --depth 1 https://github.com/mylinuxforwork/hyprland-starter.git
+git clone --depth 1 https://github.com/tailsmonter/My-MLFW-Hyprland.git
 echo ":: Installation files cloned into Downloads folder"
 
 # Change into the folder
-cd hyprland-starter
+cd My-MLFW-Hyprland
 
 # Start the script
 ./install.sh
