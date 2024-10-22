@@ -199,7 +199,7 @@ if [ -d ~/Downloads/My-MLFW-Hyprland ] ;then
 fi
 
 # Clone the packages
-git clone --depth 1 https://github.com/tailsmonter/My-MLFW-Hyprland.git
+git clone --depth 1 git@github.com:tailsmonster/My-MLFW-Hyprland.git
 echo ":: Installation files cloned into Downloads folder"
 
 # Change into the folder
